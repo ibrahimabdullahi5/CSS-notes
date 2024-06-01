@@ -1,0 +1,21 @@
+/* styles */
+h1{
+    font-size: medium;
+    color: blue;
+
+}
+nav ul{
+background-color: blueviolet;
+font-family: 'Times New Roman', Times, serif;
+border-radius: 10%;
+margin-left: 5px;
+justify-content: center;
+flex-wrap: wrap;
+color: green;
+}
+body{
+background-color: black;
+color: silver;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
